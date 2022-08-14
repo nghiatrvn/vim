@@ -39,7 +39,7 @@ NOTE: Pressing <ESC> will place you in Normal mode or will cancel
      the word,  c$  to change to the end of a line.
 4. The format for change is:
          c   [number]   motion
--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 1. CTRL-G  displays your location in the file and the file status.
              G  moves to the end of the file.
      number  G  moves to that line number.
